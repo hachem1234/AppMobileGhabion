@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="common_technical_issue">Une erreur est survenue</string>
+    <string name="common_check_internet_connection">Veuillez vérifier votre connexion réseau.</string>
+
+</resources>
