@@ -2,7 +2,6 @@ package com.itroad.movies.app.data.net
 
 import com.itroad.movies.app.common.Constants
 import com.itroad.movies.data.models.detail.ResponseDetail
-import com.itroad.movies.data.models.emploieurItem
 import com.itroad.movies.data.models.movies.ResponseMovie
 import retrofit2.http.GET
 import retrofit2.http.Query

@@ -1,6 +1,5 @@
 package com.itroad.movies.ui.movies
 
-import com.itroad.movies.data.models.Data
 import com.itroad.movies.data.models.movies.Result
 
 

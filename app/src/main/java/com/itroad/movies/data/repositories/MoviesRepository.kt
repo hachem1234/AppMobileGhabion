@@ -6,7 +6,6 @@ import com.itroad.movies.app.common.Result
 import com.itroad.movies.app.data.net.RetrofitRunner
 import com.itroad.movies.app.data.net.MoviesService
 import com.itroad.movies.data.models.detail.ResponseDetail
-import com.itroad.movies.data.models.emploieurItem
 import com.itroad.movies.data.models.movies.ResponseMovie
 import javax.inject.Inject
 
